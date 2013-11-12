@@ -46,7 +46,7 @@
 	
 	@media only screen and (max-device-width: 480px) {
 		div#backdrop {
-			background-image: url("bkg_02.jpg");
+			background-image: url("bkg_03.jpg");
 		}
 		
 		html, body {
